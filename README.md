@@ -1,5 +1,11 @@
 <header>
+# Welcome to My Markdown Journey
 
+## What I’m Learning
+
+### Why Markdown Matters
+
+###### This is a tiny header for footnotes or side notes
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
